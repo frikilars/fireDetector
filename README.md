@@ -1,10 +1,10 @@
-# fireDetector
+# fireDetector on WOKWI
 ![image](https://github.com/user-attachments/assets/d9502922-e774-40de-8351-8a50f72e2575)
-<h3> Embedded System Fire Detector</h3> without waterpumo & flamesensor
+<h3> Embedded System Fire Detector</h3> without waterpump & flamesensor
 
 
 ![image](https://github.com/user-attachments/assets/2d0a81a0-534c-4eff-872d-155c4b2e985f)
-<h3> IOT Fire Detector</h3> without waterpumo & flamesensor<br>
+<h3> IOT Fire Detector</h3> without waterpump & flamesensor<br>
 <h3>Tambahkan datastream di blink dengan</h3><br>
 🟢 1. Datastream untuk Suhu (Temperature) <br>
 Name: Temperature<br>
