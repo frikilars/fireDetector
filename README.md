@@ -4,30 +4,30 @@
 
 
 ![image](https://github.com/user-attachments/assets/2d0a81a0-534c-4eff-872d-155c4b2e985f)
-<h3> IOT Fire Detector</h3> without waterpumo & flamesensor
-<h3>Tambahkan datastream di blink dengan</h3>
-🟢 1. Datastream untuk Suhu (Temperature)
-Name: Temperature
-Type: Virtual Pin
-Virtual Pin: V0
-Data type: Double
-Units: °C
-Min/Max: Misalnya 0 - 100
-Widget / Display: Gauge, Value Display, atau Chart
+<h3> IOT Fire Detector</h3> without waterpumo & flamesensor<br>
+<h3>Tambahkan datastream di blink dengan</h3><br>
+🟢 1. Datastream untuk Suhu (Temperature) <br>
+Name: Temperature<br>
+Type: Virtual Pin<br>
+Virtual Pin: V0<br>
+Data type: Double<br>
+Units: °C<br>
+Min/Max: Misalnya 0 - 100<br>
+Widget / Display: Gauge, Value Display, atau Chart<br>
 
-🟡 2. Datastream untuk Gas (MQ2 Sensor)
-Name: Gas Sensor
-Type: Virtual Pin
-Virtual Pin: V1
-Data type: Integer
-Units: Misalnya: ppm (jika dikalibrasi) atau Analog
-Min/Max: 0 - 4095 (karena ADC ESP32 12-bit)
-Widget / Display: Gauge, Value Display, atau Chart
+🟡 2. Datastream untuk Gas (MQ2 Sensor)<br>
+Name: Gas Sensor<br>
+Type: Virtual Pin<br>
+Virtual Pin: V1<br>
+Data type: Integer<br>
+Units: Misalnya: ppm (jika dikalibrasi) atau Analog<br>
+Min/Max: 0 - 4095 (karena ADC ESP32 12-bit)<br>
+Widget / Display: Gauge, Value Display, atau Chart<br>
 
-🔴 3. Datastream untuk Flame (Sensor Api)
-Name: Flame
-Type: Virtual Pin
-Virtual Pin: V2
-Data type: Integer (gunakan 0 atau 1)
-Min/Max: 0 - 1
-Widget / Display: LED, Value Display, atau Notification trigger
+🔴 3. Datastream untuk Flame (Sensor Api)<br>
+Name: Flame<br>
+Type: Virtual Pin<br>
+Virtual Pin: V2<br>
+Data type: Integer (gunakan 0 atau 1)<br>
+Min/Max: 0 - 1<br>
+Widget / Display: LED, Value Display, atau Notification triggerv
