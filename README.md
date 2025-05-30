@@ -23,7 +23,7 @@ Data type: Integer<br>
 Units: Misalnya: ppm (jika dikalibrasi) atau Analog<br>
 Min/Max: 0 - 4095 (karena ADC ESP32 12-bit)<br>
 Widget / Display: Gauge, Value Display, atau Chart<br>
-
+<br>
 🔴 3. Datastream untuk Flame (Sensor Api)<br>
 Name: Flame<br>
 Type: Virtual Pin<br>
