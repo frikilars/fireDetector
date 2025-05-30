@@ -14,7 +14,7 @@ Data type: Double<br>
 Units: °C<br>
 Min/Max: Misalnya 0 - 100<br>
 Widget / Display: Gauge, Value Display, atau Chart<br>
-
+<br>
 🟡 2. Datastream untuk Gas (MQ2 Sensor)<br>
 Name: Gas Sensor<br>
 Type: Virtual Pin<br>
@@ -30,4 +30,4 @@ Type: Virtual Pin<br>
 Virtual Pin: V2<br>
 Data type: Integer (gunakan 0 atau 1)<br>
 Min/Max: 0 - 1<br>
-Widget / Display: LED, Value Display, atau Notification triggerv
+Widget / Display: LED, Value Display, atau Notification trigger
