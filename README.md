@@ -1,5 +1,5 @@
 # fireDetector on WOKWI
-![image](https://github.com/user-attachments/assets/d9502922-e774-40de-8351-8a50f72e2575)
+![image](https://github.com/user-attachments/assets/c7bb50e4-d8c4-4e5e-8edf-5f92901dc573)
 <h3> Embedded System Fire Detector</h3> without waterpump & flamesensor
 
 
